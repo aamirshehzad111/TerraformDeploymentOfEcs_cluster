@@ -1,0 +1,5 @@
+cluster_name        = "cluster-one"
+image_url           = "020046395185.dkr.ecr.us-east-1.amazonaws.com/php-apache-image:latest"
+instance_type_param = "t2.medium"
+key_name            = "aamirKP1"
+target-group_name   = "tg1"
